@@ -1,3 +1,4 @@
 title: Capstone Project
 description: Employee Schedule Manager Project
-theme: jekyll-theme-midnight
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
